@@ -1,7 +1,22 @@
 * {
   box-sizing: border-box;
+  /* border: 1px solid red; */
+}
+
+h1 {
+  text-align: center;
 }
 
 .colors {
   border: 1px solid;
+  width: 1000px;
+  height: 250px;
+  margin: 0 auto;
+}
+
+.colors div {
+  display: inline-block;
+  width: 300px;
+  border: 1px solid;
+  text-align: center;
 }
