@@ -20,7 +20,7 @@ h2 {
   border-radius: 5px;
   padding: 10px;
   margin: 10px auto;
-  width: 80%
+  width: 80%;
 }
 
 p {
@@ -84,11 +84,11 @@ p {
 }
 
 .source-code-pro {
-  font-family: "Source Code Pro"
+  font-family: "Source Code Pro";
 }
 
 .nunito-sans {
-  font-family: "Nunito Sans"
+  font-family: "Nunito Sans";
 }
 
 .poppins {
