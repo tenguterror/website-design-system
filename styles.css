@@ -25,7 +25,8 @@ h2 {
 
 p {
   font-weight: 400;
-  font-family: poppins;
+  font-size: 14px;
+  font-family: Poppins;
 }
 
 /* Color section */
@@ -92,4 +93,13 @@ p {
 
 .poppins {
   font-family: Poppins;
+}
+
+/* Text styles section*/
+
+.text-heading {
+  text-align: left;
+  font-size: 26px;
+  font-family: "Nunito Sans";
+  font-weight: 700;
 }
