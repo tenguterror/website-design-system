@@ -13,7 +13,7 @@ h1 {
 h2 {
   font-weight: 500;
   font-size: 18px;
-  font-family: poppins;
+  font-family: Poppins;
 }
 .container {
   border: 2px solid rgb(95, 91, 91);
@@ -91,5 +91,5 @@ p {
 }
 
 .poppins {
-  font-family: poppins;
+  font-family: Poppins;
 }
