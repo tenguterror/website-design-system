@@ -7,20 +7,32 @@ h1 {
   text-align: center;
   font-size: 26px;
   font-family: "Nunito Sans";
+  font-weight: 700;
 }
 
+h2 {
+  font-weight: 500;
+  font-size: 18px;
+  font-family: poppins;
+}
 .container {
-  border: 1px solid black;
+  border: 2px solid rgb(95, 91, 91);
   border-radius: 5px;
   padding: 10px;
   margin: 10px auto;
   width: 80%
 }
 
+p {
+  font-weight: 400;
+  font-family: poppins;
+}
+
+/* Color section */
 .color-container {
   width: 100%;
 }
-/* Color section */
+
 .color-panel {
   display: inline-block;
   text-align: center;
@@ -46,11 +58,15 @@ h1 {
 }
 
 /* Font section */
+.font-container {
+  width: 100%;
+}
+
 .font-panel {
   display: inline-block;
   text-align: left;
   margin: 20px auto;
-  width: 32%;
+  width: 45%;
   border-radius: 5px;
 }
 
@@ -64,4 +80,16 @@ h1 {
 
 .italic {
   font-style: italic;
+}
+
+.source-code-pro {
+  font-family: "Source Code Pro"
+}
+
+.nunito-sans {
+  font-family: "Nunito Sans"
+}
+
+.poppins {
+  font-family: poppins;
 }
